@@ -1,0 +1,68 @@
+div.wpcf7 {
+	margin: 0;
+	padding: 0;
+}
+
+div.wpcf7 input {
+	border: 1px solid #ccc;
+	height:25px;
+	width:100%;
+}
+
+div.wpcf7 textarea {
+	border: 1px solid #ccc;
+	width:100%;
+}
+
+
+div.wpcf7-response-output {
+	margin: 0em 0.5em 2em;
+	padding: 1.5em 1.5em;
+}
+
+div.wpcf7-mail-sent-ok {
+	border: 2px dashed #398f14;
+}
+
+div.wpcf7-mail-sent-ng {
+	border: 2px dashed #ff0000;
+}
+
+div.wpcf7-spam-blocked {
+	border: 2px dashed #ffa500;
+}
+
+div.wpcf7-validation-errors {
+	border: 2px dashed #95aae5;
+}
+
+span.wpcf7-form-control-wrap {
+	position: relative;
+}
+
+span.wpcf7-not-valid-tip {
+	position: absolute;
+	top: 20%;
+	left: 20%;
+	z-index: 100;
+	background: #fff;
+	border: 2px dashed #ff0000;
+	font-size: 90%;
+	width: 280px;
+	padding: 2px;
+}
+
+span.wpcf7-not-valid-tip-no-ajax {
+	color: #f00;
+	font-size: 90%;
+	display: block;
+}
+
+span.wpcf7-list-item {
+	margin-left: 0.5em;
+}
+
+#contactSubmit  {
+	width: 80px;
+	height: 30px;
+}
