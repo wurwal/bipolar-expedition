@@ -172,7 +172,7 @@ border-bottom: solid 1px #3b5997;
 }
 
 h3 {
-    
+
 	margin-bottom: 0.7em;
 	color: #3b5997;
 }
@@ -189,7 +189,7 @@ h2.pagetitle {
 	font-size:140%;
 	font-family: 'Lucida Grande', Verdana, Sans-Serif;
 	}
-	
+
 #sidebar li {
 	font-size:100%;
 }
@@ -221,7 +221,7 @@ h2, h2 a, h2 a:hover, h2 a:visited, h3, h3 a, h3 a:hover, h3 a:visited, #sidebar
 	font-weight: bold;
 }
 
-.commentlist li .avatar { 
+.commentlist li .avatar {
 	float: right;
 	border: 1px solid #eee;
 	padding: 2px;
@@ -308,7 +308,7 @@ a:hover {
 #contentwrapper {
 		padding: 5px 15px 0 15px;
 		width:710px;
-		background:url(sitegraphics/bg_content.gif) 0 0 no-repeat; 
+		background:url(sitegraphics/bg_content.gif) 0 0 no-repeat;
 }
 
 #page {
@@ -346,12 +346,12 @@ a:hover {
 
 #content p {
  line-height:1.6em;
- 
+
 }
 
 #contentComment {
 	float:right;
-	font-size: 130%; 
+	font-size: 130%;
 	padding:15px;
 	width:700px;
 }
@@ -388,7 +388,7 @@ a:hover {
 }
 
 #nav li {
-	float:left;	
+	float:left;
 }
 
 
@@ -626,7 +626,7 @@ html>body .entry li {
 	}
 
 .entry ul li:before, #sidebar ul ul li:before {
-	
+
 	}
 
 .entry ol {
@@ -652,7 +652,7 @@ html>body .entry li {
 
 #sidebar ul li {
 	list-style-type: none;
-	list-style-image: none;       
+	list-style-image: none;
 	margin-bottom: 15px;
 	}
 
@@ -661,7 +661,7 @@ html>body .entry li {
 	}
 
 #sidebar ul ul, #sidebar ul ol {
-	margin: 5px 0 0 10px;
+	margin: 15px 0 0 0;
 	}
 
 #sidebar ul ul ul, #sidebar ul ol {
@@ -735,10 +735,10 @@ select {
 	padding: 2px;
 	}
 #respond:after {
-		content: "."; 
-	    display: block; 
-	    height: 0; 
-	    clear: both; 
+		content: ".";
+	    display: block;
+	    height: 0;
+	    clear: both;
 	    visibility: hidden;
 	}
 #commentform #submit {
@@ -767,7 +767,7 @@ select {
 	list-style: none;
 
 	}
-.commentlist li ul li { 
+.commentlist li ul li {
 	margin-right: -5px;
 	margin-left: 10px;
 }
@@ -812,22 +812,22 @@ select {
         display:block;
         font-size:130%;
 }
-	
+
 #sidebar a:hover, #sidebar a:active {
 	        font-weight:bold;
 		text-decoration:none;
-		color:#666;	
-		
+		color:#666;
+
 }
 
 #sidebar a:visited, #sidebar a:link {
                 font-weight:bold;
 		text-decoration:none;
-		color:#63b5997;		
+		color:#63b5997;
 }
 
 #sidebar li {
-        margin-bottom:12px;  
+        margin-bottom:12px;
 	list-style:none;
 }
 /* End Sidebar */
@@ -917,7 +917,7 @@ a img {
 	display: none;
         visibility:hidden;
 	text-align: center;
-	
+
 	}
 /* End Various Tags & Classes*/
 
@@ -954,8 +954,7 @@ div.aligncenter {
     padding: 6px 0 8px 8px;
     text-align:left;
 	font-size: 12px;
-	line-height: 17px;	
+	line-height: 17px;
 	margin: 0;
 }
 /* End captions */
-
